@@ -10,7 +10,7 @@
 	},
 	"keywords": [],
 	"author": "Theo Last",
-	"repository": "",
+	"repository": "https://github.com/Finchasaurus/BloxstrapRPC",
 	"license": "MIT",
 	"types": "out/index.d.ts",
 	"files": [
