@@ -1,5 +1,7 @@
 # BloxstrapRPC Roblox-TS port
 
+# ⚠️ Warning: This package has been deprecated in favour of the official sdk found [here](https://github.com/bloxstraplabs/bloxstrap-rpc-sdk). While this still may work, it will not be receiving any changes or updates and you should abstain from using it. ⚠️
+
 [Adapted from official documentation](https://github.com/pizzaboxer/bloxstrap/wiki/Integrating-Bloxstrap-functionality-into-your-game)
 
 If you're a game developer on Roblox, you may be interested in utilizing the features that Bloxstrap has to offer - but how? 
